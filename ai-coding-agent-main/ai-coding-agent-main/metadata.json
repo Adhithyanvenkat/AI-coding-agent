@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Agent",
+  "description": "An advanced AI-powered assistant for generating, debugging, and analyzing code, with full project generation, history tracking, and interactive chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
